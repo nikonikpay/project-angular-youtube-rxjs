@@ -8,7 +8,7 @@ import { map } from "rxjs/operators";
 // 'AIzaSyDOfT_BO81aEZScosfTYMruJobmpjqNeEk'
 
 export const YOUTUBE_API_KEY =
- 'AIzaSyC7WZNm0FSovZDRJNf0g1poswKEkpJ-FPs';
+ '';
 export const YOUTUBE_API_URL =
   'https://www.googleapis.com/youtube/v3/search';
 

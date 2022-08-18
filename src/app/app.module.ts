@@ -11,6 +11,7 @@ import { SearchBoxComponent } from './search-box/search-box.component';
 
 import { SearchResultComponent } from './search-result/search-result.component';
 import { YouTubeSearchComponent } from './you-tube-search/you-tube-search.component';
+import { MoreHttpRequestComponent } from './more-http-request/more-http-request.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +19,8 @@ import { YouTubeSearchComponent } from './you-tube-search/you-tube-search.compon
     SimpleHttpComponent,
     SearchBoxComponent,
     SearchResultComponent,
-    YouTubeSearchComponent
+    YouTubeSearchComponent,
+    MoreHttpRequestComponent
   ],
   imports: [
     BrowserModule,
